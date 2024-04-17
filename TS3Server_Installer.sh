@@ -5,7 +5,7 @@ MACHINE=$(uname -m)
 Instversion="1.2"
 VERSION=3.13.3
 SERVERUSER=ts3server
-LOCATION=/home
+LOCATION=/home/$SERVERUSER/
 
 # Functions
 
