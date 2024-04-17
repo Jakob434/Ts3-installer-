@@ -8,7 +8,7 @@ cd
 
 wget https://files.teamspeak-services.com/releases/server/3.13.7/teamspeak3-server_linux_amd64-3.13.7.tar.bz2
 
-tar xfjv teamspeaks3-server_linux_amd64
+tar xfjv teamspeaks3-server_linux_amd64-3.13.7.tar.bz2
 
 cd teamspeaks3-server_linux_amd64
 
